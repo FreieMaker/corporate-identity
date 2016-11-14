@@ -1,0 +1,12 @@
+http://colorschemedesigner.com/csd-3.5/#2P51ThWs0g0DG
+
+Primary Color:
+				
+4FB34F	509C50	319331	8CE38C	ADE3AD
+Secondary Color A:
+				
+3B8686	3C7575	246E6E	82D3D3	A0D3D3
+Secondary Color B:
+				
+A9D05C	98B65D	85AC39	D0EE93	DBEEB5
+
